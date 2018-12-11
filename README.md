@@ -1,4 +1,4 @@
-# SmartSolarSystem
+# Smart Solar System
 
 Climate change requires actions by everyone. Renewable energy is an essential ingredient where private house owners play a crucial role. 
 The integration of renewable energy into existing power grids is making slow progress. It is challenging due to its inherent production flucutuations which cause grid instabilities leading to high maintenance and operational costs. 
